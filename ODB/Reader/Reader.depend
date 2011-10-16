@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1316368659 source:c:\users\vinicius\documents\visual studio 2010\projects\laskera_object_database\project-odb\trunk laskeyra-project-odb\odb\reader\reader\main.cpp
+	<iostream>
+	<fstream>
+	<iostream>
+	<string>
+

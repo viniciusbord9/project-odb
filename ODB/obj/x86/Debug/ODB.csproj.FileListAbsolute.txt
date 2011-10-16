@@ -1,0 +1,15 @@
+C:\Users\notebord\Documents\Visual Studio 2010\Projects\ODB_Repositorio\project-odb\trunk laskeyra-project-odb\ODB\ODB\bin\Debug\ODB.exe
+C:\Users\notebord\Documents\Visual Studio 2010\Projects\ODB_Repositorio\project-odb\trunk laskeyra-project-odb\ODB\ODB\bin\Debug\ODB.pdb
+C:\Users\notebord\Documents\Visual Studio 2010\Projects\ODB_Repositorio\project-odb\trunk laskeyra-project-odb\ODB\ODB\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\notebord\Documents\Visual Studio 2010\Projects\ODB_Repositorio\project-odb\trunk laskeyra-project-odb\ODB\ODB\obj\x86\Debug\ODB.exe
+C:\Users\notebord\Documents\Visual Studio 2010\Projects\ODB_Repositorio\project-odb\trunk laskeyra-project-odb\ODB\ODB\obj\x86\Debug\ODB.pdb
+C:\Felipe\Laskeyra\trunk laskeyra-project-odb\ODB\ODB\obj\x86\Debug\ODB.exe
+C:\Felipe\Laskeyra\trunk laskeyra-project-odb\ODB\ODB\obj\x86\Debug\ODB.pdb
+C:\Felipe\Laskeyra\trunk laskeyra-project-odb\ODB\ODB\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Felipe\Laskeyra\trunk laskeyra-project-odb\ODB\ODB\bin\Debug\ODB.exe
+C:\Felipe\Laskeyra\trunk laskeyra-project-odb\ODB\ODB\bin\Debug\ODB.pdb
+C:\Users\vinicius\Documents\Visual Studio 2010\Projects\Laskera_Object_Database\project-odb\trunk laskeyra-project-odb\ODB\ODB\obj\x86\Debug\ODB.exe
+C:\Users\vinicius\Documents\Visual Studio 2010\Projects\Laskera_Object_Database\project-odb\trunk laskeyra-project-odb\ODB\ODB\obj\x86\Debug\ODB.pdb
+C:\Users\vinicius\Documents\Visual Studio 2010\Projects\Laskera_Object_Database\project-odb\trunk laskeyra-project-odb\ODB\ODB\bin\Debug\ODB.exe
+C:\Users\vinicius\Documents\Visual Studio 2010\Projects\Laskera_Object_Database\project-odb\trunk laskeyra-project-odb\ODB\ODB\bin\Debug\ODB.pdb
+C:\Users\vinicius\Documents\Visual Studio 2010\Projects\Laskera_Object_Database\project-odb\trunk laskeyra-project-odb\ODB\ODB\obj\x86\Debug\ResolveAssemblyReference.cache
